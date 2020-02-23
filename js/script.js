@@ -70,7 +70,7 @@ function randImage(a){
         a.style.backgroundImage = "url('./img/animegirl2.png')";
     
     else if(imgRand == 3)
-        a.style.backgroundImage = "url('./img/animegirl3.png')";
+        a.style.backgroundImage = "url('./img/AnimeGirl3.png')";
     
     else if(imgRand == 4)
         a.style.backgroundImage = "url('./img/animegirl4.png')";
